@@ -78,7 +78,9 @@ MORE = 1085<br>
 <hr>
 MONEY = 10652<br>
 <hr>
+
 # Program:
+
 ```
 # -*- coding: utf-8 -*-
 """CSP.ipynb
@@ -119,10 +121,12 @@ if solution:
     print(f'MONEY = {MONEY}')
 else:
     print("No solution found.")
+
 ```
 # Output 
 
 <img width="326" height="141" alt="image" src="https://github.com/user-attachments/assets/b3419d3d-9efa-4e4a-a284-d6578c4a3213" />
+
 
 <h2>Result:</h2>
 <p> Thus a Cryptarithmetic Problem was solved using Python successfully</p>
